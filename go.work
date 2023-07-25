@@ -17,6 +17,7 @@ use (
 	./registry/nats
 	./registry/regutil
 	./registry/tests
+	./registry/etcd
 	./server/grpc
 	./server/http
 	./server/tests
